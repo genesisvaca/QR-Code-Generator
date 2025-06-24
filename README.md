@@ -48,10 +48,6 @@ Enter the text or URL you want to encode
 
 Enter the desired output file name (e.g. my_qr.png)
 
-## 🖼️ Example Output
-<div align="center"> <img src="preview.png" alt="QR code example with logo" width="300"/> </div>
-Preview with purple QR color, white background, and embedded logo.
-
 ## 📂 Project Structure
 ````
 QR-Code-Generator/
