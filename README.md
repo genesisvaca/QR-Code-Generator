@@ -1,5 +1,14 @@
 # 📸 QR Code Generator with Custom Colors and Logo
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-64C9CF?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Library-qrcode%20%7C%20Pillow-FEC89A?style=for-the-badge" alt="Libraries Badge">
+  <img src="https://img.shields.io/badge/Focus-CLI%20Tool%20%7C%20Image%20Generation-84A59D?style=for-the-badge" alt="Focus Badge">
+  <img src="https://img.shields.io/badge/Type-Utility%20Script-9B5DE5?style=for-the-badge" alt="Type Badge">
+  <img src="https://img.shields.io/badge/Status-Completed-FD6F96?style=for-the-badge" alt="Status Badge">
+</p>
+
+
 This is a simple yet powerful Python script that generates **custom QR codes** with personalized colors and the option to **embed a logo** in the center. Perfect for creating branded QR codes for websites, events, or products.
 
 ## ✨ Features
@@ -9,8 +18,6 @@ This is a simple yet powerful Python script that generates **custom QR codes** w
 - 🖼️ Option to add a logo in the center
 - 💾 Save as high-quality `.png` image
 - 🐍 Built with pure Python (`qrcode` + `Pillow`)
-
----
 
 ## 🛠️ Requirements
 
@@ -57,8 +64,10 @@ QR-Code-Generator/
 └── README.md               # This file
 ````
 
-## 📬 Contact
-Created with ❤️ by Génesis Vaca Palma
+## 
 
-📧 Email: genesisvacapalma@gmail.com
+Created with ❤️ by **Génesis Vaca Palma**
+📧 [genesisvacapalma@gmail.com](mailto:genesisvacapalma@gmail.com)  
 
+📍 Based in Madrid, Spain  
+🌐 [GitHub Profile](https://github.com/genesisvaca)
